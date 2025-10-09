@@ -1,5 +1,5 @@
 # Federated Learning & Data Privacy, 2025-2026
-
+## *Please find the solutions in the Solutions folder
 ## First Lab - 25 September 2025
 
 Welcome to the first lab session of the Federated Learning & Data Privacy course! In this lab, we will implement the FedAvg algorithm, understand its components, and explore the impacts of its parameters on the model's performance. Let's start.
